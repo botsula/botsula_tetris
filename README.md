@@ -1,6 +1,6 @@
 # Tetris game, wow!
 
-1) `npm instal`
+1) `npm install`
 
 2) `serve`
 
