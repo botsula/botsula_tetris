@@ -1,4 +1,4 @@
-# jstetris-learn
+# Tetris js game!
 
 1) `npm instal`
 
