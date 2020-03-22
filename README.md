@@ -1,4 +1,4 @@
-# Tetris js game!
+# Tetris game, wow!
 
 1) `npm instal`
 
